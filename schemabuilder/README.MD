@@ -8,7 +8,7 @@
 
 #### Usage:
 
-`schemagenerator.sh [-c CONFIG]
+`schemagenerator.sh [-c CONFIG]`
 
 ##### Available options:
 
