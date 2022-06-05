@@ -8,7 +8,7 @@
 
 #### Usage:
 
-`schemagenerator.sh [-c CONFIG] [-f FILE]`
+`schemagenerator.sh [-c CONFIG]
 
 ##### Available options:
 
@@ -20,3 +20,4 @@
 
 ##### Result:
 
+![Result](example.png)
